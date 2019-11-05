@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DynamicModuleTest</string>
+    <string name="title_test">Test</string>
+    <string name="title_activity_test">TestActivity</string>
+    <string name="title_dynamic_feature_new_gen">Module Title</string>
+    <string name="title_dynamic_feature_new">Module Title</string>
+    <string name="title_dynamic_feature_blz">New module</string>
+</resources>
